@@ -59,7 +59,7 @@ var sites= {
 , 'Mei_Lun_Yuen': ['#f07b3b','a 185-unit complex constructed under the HUD 236 Program']
 , 'North_Ping_Yuen': ['','1961 annex to Ping Yuen, adding 185 additional units']
 , 'Ping_Yuen': ['#f07b3b','landmark housing project, providing 234-units to low-income families']
-, 'Portsmouth_Square': ['','Popular open space public park, dating back to Spanish California']
+, 'Portsmouth_Square': ['#95d1a3','Popular open space public park, dating back to Spanish California']
 , 'Self-Help_for_the_Elderly_-_Geen_Mun': ['','providing support to seniors in order to promote independence, dignity, and self-worth']
 , 'Spofford_Alley': ['#f07b3b','historic alley of Chinatown, one of the many involved in the Alleyways Program']
 , 'St_Mary_s_Square': ['','a rooftop green space located on top of a multi-level garage']
